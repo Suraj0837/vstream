@@ -1,0 +1,3 @@
+[submodule "vstream-cluster"]
+	path = vstream-cluster
+	url = https://github.com/Suraj0837/vstream-cluster
